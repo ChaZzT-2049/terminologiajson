@@ -1,0 +1,19 @@
+[
+	{
+		"sdlc": "definicion de sdlc",
+		"s-sdlc": "definicion de concepto2",
+		"metodologia": "definicion de metodologia",
+		"modelo-des": "definicion de modelo de desarrollo",
+		"matriz-pruebas": "Definicion de matriz de pruebas",
+		"depuracion": "Definicion de depuracion",
+		"encriptacion": "Definicion de encriptacion",
+		"libreria": "definicion de libreria",
+		"metrica": "definicion de metrica",
+		"criptografia": "definicion de criptografia",
+		"owasp": "definicion de owasp"
+	},
+	{
+		"concepto1": "definicion de concepto1",
+		"concepto2": "definicion de concepto2"
+	}
+]
