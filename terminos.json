@@ -2,13 +2,13 @@
 	{
 		"id": "1",
 		"termino": "SDLC",
-		"definicion": "Concepto de SDLC",
+		"definicion": "El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir",
 		"unidad": "1"
 	},
 	{
 		"id": "2",
 		"termino": "S-SDLC",
-		"definicion": "Concepto de S-SDLC",
+		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento.",
 		"unidad": "1"
 	},
 	{
