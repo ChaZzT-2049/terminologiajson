@@ -8,25 +8,25 @@
 	{
 		"id": "2",
 		"termino": "S-SDLC",
-		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento.",
+		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento",
 		"unidad": "1"
 	},
 	{
 		"id": "3",
-		"termino": "Metodologia",
-		"definicion": "Concepto de metodologia",
+		"termino": "Metodologia de Desarrollo",
+		"definicion": "Las metodologías de desarrollo de software, se definen como un conjunto de consideraciones y parámetros, cuyo objetivo es gestionar el proceso de desarrollo de un sistema informático. Dichas consideraciones abarcan desde herramientas, modelos, he incluso otras metodologías, necesarias dentro del marco de trabajo del proyecto. Las metodologías de desarrollo de software funcionan como guías de trabajo, que te indica como, cuando y donde debes de llevar a cabo una determinada acción dentro de tu proyecto. Con el objetivo de optimizar el proceso de desarrollo",
 		"unidad": "1"
 	},
 	{
 		"id": "4",
-		"termino": "Modelo",
-		"definicion": "Concepto de modelo",
+		"termino": "Modelo de Desarrollo",
+		"definicion": "Un modelo de desarrollo de software es una abstracción del proceso de desarrollo de programa. Los modelos especifican los periodos y el orden de un proceso. Entonces, es como una representación del orden de las ocupaciones del proceso y la sucesión en la que se hacen. Los modelos de desarrollo de software son los múltiples procesos que se permanecen seleccionando para el desarrollo del plan en funcionalidad de las metas y metas del plan. Hay varios modelos de periodo de vida de desarrollo que se han desarrollado para poder hacer diferentes fines requeridos",
 		"unidad": "1"
 	},
 	{
 		"id": "5",
 		"termino": "Matriz de Pruebas",
-		"definicion": "Concepto de matriz de pruebas",
+		"definicion": "La matriz de pruebas es el conjunto de casos de prueba que diseñamos y dimensionamos como casos para la ejecución de las pruebas, se basan en la documentación del proyecto, como por ejemplo las historias de usuario.",
 		"unidad": "1"
 	},
 	{
