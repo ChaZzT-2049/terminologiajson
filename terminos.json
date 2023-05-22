@@ -26,43 +26,43 @@
 	{
 		"id": "5",
 		"termino": "Matriz de Pruebas",
-		"definicion": "La matriz de pruebas es el conjunto de casos de prueba que diseñamos y dimensionamos como casos para la ejecución de las pruebas, se basan en la documentación del proyecto, como por ejemplo las historias de usuario.",
+		"definicion": "La matriz de pruebas es el conjunto de casos de prueba que diseñamos y dimensionamos como casos para la ejecución de las pruebas, se basan en la documentación del proyecto, como por ejemplo las historias de usuario",
 		"unidad": "1"
 	},
 	{
 		"id": "6",
 		"termino": "Depuración",
-		"definicion": "Concepto de depuración",
+		"definicion": "La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación",
 		"unidad": "1"
 	},
 	{
 		"id": "7",
 		"termino": "Encriptación",
-		"definicion": "Concepto de encriptacion",
+		"definicion": "La encriptación es un procedimiento de seguridad que consiste en la alteración, mediante algoritmos, de los datos que componen un archivo. El objetivo es hacer que dichos datos se vuelvan ilegibles en caso de que un tercero los intercepte",
 		"unidad": "1"
 	},
 	{
 		"id": "8",
 		"termino": "Librería",
-		"definicion": "Concepto de librería",
+		"definicion": "Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, elaborado por un tercero que resuelve un problema en concreto, proporcionando un conjunto de funcionalidades",
 		"unidad": "1"
 	},
 	{
 		"id": "9",
 		"termino": "Metrica",
-		"definicion": "Concepto de metrica",
+		"definicion": "Una métrica del software es cualquier medida o conjunto utilizado para conocer o estimar el tamaño de un software o sistema de información. Entre los usos más frecuentes de las métricas del software están el realizar comparaciones costo beneficio y estimaciones de costos en proyectos de software",
 		"unidad": "1"
 	},
 	{
 		"id": "10",
 		"termino": "Criptografía",
-		"definicion": "Concepto de criptografía",
+		"definicion": "La criptografía es la codificación de datos por un algoritmo, en un proceso llamado encriptación. Se define como un conjunto de técnicas de programación utilizadas para proteger información de cualquier naturaleza, evita que la información sea leída por quien no debe y permitir que se transmita de forma segura, incluso en un canal con poca seguridad",
 		"unidad": "1"
 	},
 	{
 		"id": "11",
 		"termino": "OWASP",
-		"definicion": "Concepto de OWASP",
+		"definicion": "OWASP (Open Web Application Security Project) es una metodología de seguridad  de código abierto y colaborativa que se utiliza como referente para auditorias de seguridad de aplicaciones web",
 		"unidad": "1"
 	},
 	{
