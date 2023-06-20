@@ -31,7 +31,7 @@
 		"id": "5",
 		"termino": "Matriz de Pruebas",
 		"definicion": "La matriz de pruebas es el conjunto de casos de prueba que diseñamos y dimensionamos como casos para la ejecución de las pruebas, se basan en la documentación del proyecto, como por ejemplo las historias de usuario",
-		"referencia": "ref",
+		"referencia": "Que es una matriz de pruebas de software? – ConsejosSabios. (s/f). Com.mx. Recuperado el 20 de junio de 2023, de https://consejossabios.com.mx/que-es-una-matriz-de-pruebas-de-software/",
 		"unidad": "1"
 	},
 	{
@@ -45,7 +45,7 @@
 		"id": "7",
 		"termino": "Metrica",
 		"definicion": "Una métrica del software es cualquier medida o conjunto utilizado para conocer o estimar el tamaño de un software o sistema de información. Entre los usos más frecuentes de las métricas del software están el realizar comparaciones costo beneficio y estimaciones de costos en proyectos de software",
-		"referencia": "http://www.pmoinformatica.com/2018/04/metricas-del-software-ventajas.html",
+		"referencia": "Publicado por pmoinformatica.com. (s/f). Metricas del software: Uso y ventajas. Pmoinformatica.com. Recuperado el 20 de junio de 2023, de http://www.pmoinformatica.com/2018/04/metricas-del-software-ventajas.html",
 		"unidad": "1"
 	},
 	{
@@ -59,21 +59,21 @@
 		"id": "9",
 		"termino": "OWASP",
 		"definicion": "OWASP (Open Web Application Security Project) es una metodología de seguridad  de código abierto y colaborativa que se utiliza como referente para auditorias de seguridad de aplicaciones web",
-		"referencia": "ref",
+		"referencia": "Rivera, D. (2019, diciembre 7). Qué es OWASP y por qué todo desarrollador debería conocerlo. Pleets.org. https://blog.pleets.org/article/es/conoce-owasp",
 		"unidad": "1"
 	},
 	{
 		"id": "10",
 		"termino": "SDLC",
 		"definicion": "El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir",
-		"referencia": "ref",
+		"referencia": "Agrawal, A. (2020, septiembre 29). ¿Qué es SDLC? Cisin. https://www.cisin.com/coffee-break/es/trends/what-is-sdlc.html",
 		"unidad": "1"
 	},
 	{
 		"id": "11",
 		"termino": "S-SDLC",
 		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento",
-		"referencia": "ref",
+		"referencia": "Euroinnova Business School. (2022, julio 1). fundamentos de ingenieria de software temario. Euroinnova Business School. https://www.euroinnova.mx/blog/s-sdlc-que-es",
 		"unidad": "1"
 	},
 	{
