@@ -1,26 +1,26 @@
 [
 	{
 		"id": "1",
-		"termino": "SDLC",
-		"definicion": "El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir",
+		"termino": "Criptografía",
+		"definicion": "La criptografía es la codificación de datos por un algoritmo, en un proceso llamado encriptación. Se define como un conjunto de técnicas de programación utilizadas para proteger información de cualquier naturaleza, evita que la información sea leída por quien no debe y permitir que se transmita de forma segura, incluso en un canal con poca seguridad",
 		"unidad": "1"
 	},
 	{
 		"id": "2",
-		"termino": "S-SDLC",
-		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento",
+		"termino": "Depuración",
+		"definicion": "La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación",
 		"unidad": "1"
 	},
 	{
 		"id": "3",
-		"termino": "Metodologia de Desarrollo",
-		"definicion": "Las metodologías de desarrollo de software, se definen como un conjunto de consideraciones y parámetros, cuyo objetivo es gestionar el proceso de desarrollo de un sistema informático. Dichas consideraciones abarcan desde herramientas, modelos, he incluso otras metodologías, necesarias dentro del marco de trabajo del proyecto. Las metodologías de desarrollo de software funcionan como guías de trabajo, que te indica como, cuando y donde debes de llevar a cabo una determinada acción dentro de tu proyecto. Con el objetivo de optimizar el proceso de desarrollo",
+		"termino": "Encriptación",
+		"definicion": "La encriptación es un procedimiento de seguridad que consiste en la alteración, mediante algoritmos, de los datos que componen un archivo. El objetivo es hacer que dichos datos se vuelvan ilegibles en caso de que un tercero los intercepte",
 		"unidad": "1"
 	},
 	{
 		"id": "4",
-		"termino": "Modelo de Desarrollo",
-		"definicion": "Un modelo de desarrollo de software es una abstracción del proceso de desarrollo de programa. Los modelos especifican los periodos y el orden de un proceso. Entonces, es como una representación del orden de las ocupaciones del proceso y la sucesión en la que se hacen. Los modelos de desarrollo de software son los múltiples procesos que se permanecen seleccionando para el desarrollo del plan en funcionalidad de las metas y metas del plan. Hay varios modelos de periodo de vida de desarrollo que se han desarrollado para poder hacer diferentes fines requeridos",
+		"termino": "Librería",
+		"definicion": "Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, elaborado por un tercero que resuelve un problema en concreto, proporcionando un conjunto de funcionalidades",
 		"unidad": "1"
 	},
 	{
@@ -31,38 +31,38 @@
 	},
 	{
 		"id": "6",
-		"termino": "Depuración",
-		"definicion": "La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación",
+		"termino": "Metodologia de Desarrollo",
+		"definicion": "Las metodologías de desarrollo de software, se definen como un conjunto de consideraciones y parámetros, cuyo objetivo es gestionar el proceso de desarrollo de un sistema informático. Dichas consideraciones abarcan desde herramientas, modelos, he incluso otras metodologías, necesarias dentro del marco de trabajo del proyecto. Las metodologías de desarrollo de software funcionan como guías de trabajo, que te indica como, cuando y donde debes de llevar a cabo una determinada acción dentro de tu proyecto. Con el objetivo de optimizar el proceso de desarrollo",
 		"unidad": "1"
 	},
 	{
 		"id": "7",
-		"termino": "Encriptación",
-		"definicion": "La encriptación es un procedimiento de seguridad que consiste en la alteración, mediante algoritmos, de los datos que componen un archivo. El objetivo es hacer que dichos datos se vuelvan ilegibles en caso de que un tercero los intercepte",
-		"unidad": "1"
-	},
-	{
-		"id": "8",
-		"termino": "Librería",
-		"definicion": "Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, elaborado por un tercero que resuelve un problema en concreto, proporcionando un conjunto de funcionalidades",
-		"unidad": "1"
-	},
-	{
-		"id": "9",
 		"termino": "Metrica",
 		"definicion": "Una métrica del software es cualquier medida o conjunto utilizado para conocer o estimar el tamaño de un software o sistema de información. Entre los usos más frecuentes de las métricas del software están el realizar comparaciones costo beneficio y estimaciones de costos en proyectos de software",
 		"unidad": "1"
 	},
 	{
+		"id": "8",
+		"termino": "Modelo de Desarrollo",
+		"definicion": "Un modelo de desarrollo de software es una abstracción del proceso de desarrollo de programa. Los modelos especifican los periodos y el orden de un proceso. Entonces, es como una representación del orden de las ocupaciones del proceso y la sucesión en la que se hacen. Los modelos de desarrollo de software son los múltiples procesos que se permanecen seleccionando para el desarrollo del plan en funcionalidad de las metas y metas del plan. Hay varios modelos de periodo de vida de desarrollo que se han desarrollado para poder hacer diferentes fines requeridos",
+		"unidad": "1"
+	},
+	{
+		"id": "9",
+		"termino": "OWASP",
+		"definicion": "OWASP (Open Web Application Security Project) es una metodología de seguridad  de código abierto y colaborativa que se utiliza como referente para auditorias de seguridad de aplicaciones web",
+		"unidad": "1"
+	},
+	{
 		"id": "10",
-		"termino": "Criptografía",
-		"definicion": "La criptografía es la codificación de datos por un algoritmo, en un proceso llamado encriptación. Se define como un conjunto de técnicas de programación utilizadas para proteger información de cualquier naturaleza, evita que la información sea leída por quien no debe y permitir que se transmita de forma segura, incluso en un canal con poca seguridad",
+		"termino": "SDLC",
+		"definicion": "El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir",
 		"unidad": "1"
 	},
 	{
 		"id": "11",
-		"termino": "OWASP",
-		"definicion": "OWASP (Open Web Application Security Project) es una metodología de seguridad  de código abierto y colaborativa que se utiliza como referente para auditorias de seguridad de aplicaciones web",
+		"termino": "S-SDLC",
+		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento",
 		"unidad": "1"
 	},
 	{
