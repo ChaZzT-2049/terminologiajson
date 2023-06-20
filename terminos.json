@@ -10,21 +10,21 @@
 		"id": "2",
 		"termino": "Depuración",
 		"definicion": "La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación",
-		"referencia": "ref",
+		"referencia": "¿Qué es la depuración? (s/f). Amazon.com. Recuperado el 20 de junio de 2023, de https://aws.amazon.com/es/what-is/debugging/",
 		"unidad": "1"
 	},
 	{
 		"id": "3",
 		"termino": "Encriptación",
 		"definicion": "La encriptación es un procedimiento de seguridad que consiste en la alteración, mediante algoritmos, de los datos que componen un archivo. El objetivo es hacer que dichos datos se vuelvan ilegibles en caso de que un tercero los intercepte",
-		"referencia": "ref",
+		"referencia": "Significado de Encriptación. (2019, abril 9). Significados. https://www.significados.com/encriptacion/",
 		"unidad": "1"
 	},
 	{
 		"id": "4",
 		"termino": "Librería",
 		"definicion": "Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, elaborado por un tercero que resuelve un problema en concreto, proporcionando un conjunto de funcionalidades",
-		"referencia": "ref",
+		"referencia": "Gómez, P. (2021, octubre 27). Qué es una librería en programación. DevCamp. https://devcamp.es/que-es-libreria-programacion/",
 		"unidad": "1"
 	},
 	{
@@ -38,21 +38,21 @@
 		"id": "6",
 		"termino": "Metodologia de Desarrollo",
 		"definicion": "Las metodologías de desarrollo de software, se definen como un conjunto de consideraciones y parámetros, cuyo objetivo es gestionar el proceso de desarrollo de un sistema informático. Dichas consideraciones abarcan desde herramientas, modelos, he incluso otras metodologías, necesarias dentro del marco de trabajo del proyecto. Las metodologías de desarrollo de software funcionan como guías de trabajo, que te indica como, cuando y donde debes de llevar a cabo una determinada acción dentro de tu proyecto. Con el objetivo de optimizar el proceso de desarrollo",
-		"referencia": "ref",
+		"referencia": "¿Qué es y para qué sirve una metodología de desarrollo de software? (2021, marzo 18). Desarrollo de software. https://desarrollodesoftware.dev/metodologia/",
 		"unidad": "1"
 	},
 	{
 		"id": "7",
 		"termino": "Metrica",
 		"definicion": "Una métrica del software es cualquier medida o conjunto utilizado para conocer o estimar el tamaño de un software o sistema de información. Entre los usos más frecuentes de las métricas del software están el realizar comparaciones costo beneficio y estimaciones de costos en proyectos de software",
-		"referencia": "ref",
+		"referencia": "http://www.pmoinformatica.com/2018/04/metricas-del-software-ventajas.html",
 		"unidad": "1"
 	},
 	{
 		"id": "8",
 		"termino": "Modelo de Desarrollo",
 		"definicion": "Un modelo de desarrollo de software es una abstracción del proceso de desarrollo de programa. Los modelos especifican los periodos y el orden de un proceso. Entonces, es como una representación del orden de las ocupaciones del proceso y la sucesión en la que se hacen. Los modelos de desarrollo de software son los múltiples procesos que se permanecen seleccionando para el desarrollo del plan en funcionalidad de las metas y metas del plan. Hay varios modelos de periodo de vida de desarrollo que se han desarrollado para poder hacer diferentes fines requeridos",
-		"referencia": "ref",
+		"referencia": "¿Qué son los modelos de desarrollo de software? (2021, marzo 17). Desarrollo de software. https://desarrollodesoftware.dev/modelos/",
 		"unidad": "1"
 	},
 	{
