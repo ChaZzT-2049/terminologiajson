@@ -3,84 +3,104 @@
 		"id": "1",
 		"termino": "Criptografía",
 		"definicion": "La criptografía es la codificación de datos por un algoritmo, en un proceso llamado encriptación. Se define como un conjunto de técnicas de programación utilizadas para proteger información de cualquier naturaleza, evita que la información sea leída por quien no debe y permitir que se transmita de forma segura, incluso en un canal con poca seguridad",
-		"referencia": "GuilleVen. (2018, marzo 30). ¿Qué es la Criptografía? Tecnología + Informática; Tecnología+Informatica. https://www.tecnologia-informatica.com/que-es-la-criptografia/",
+		"referencia": "GuilleVen. (2018, marzo 30). ¿Qué es la Criptografía? Tecnología + Informática; Tecnología+Informatica, de",
+		"enlace": "https://www.tecnologia-informatica.com/que-es-la-criptografia/",
 		"unidad": "1"
 	},
 	{
 		"id": "2",
 		"termino": "Depuración",
 		"definicion": "La depuración de programas es el proceso de identificar y corregir errores de programación. En inglés se conoce como debugging, porque se asemeja a la eliminación de bichos (bugs), manera en que se conoce informalmente a los errores de programación",
-		"referencia": "¿Qué es la depuración? (s/f). Amazon.com. Recuperado el 20 de junio de 2023, de https://aws.amazon.com/es/what-is/debugging/",
+		"referencia": "¿Qué es la depuración? (s/f). Amazon.com. Recuperado el 20 de junio de 2023, de",
+		"enlace": "https://aws.amazon.com/es/what-is/debugging/",
 		"unidad": "1"
 	},
 	{
 		"id": "3",
 		"termino": "Encriptación",
 		"definicion": "La encriptación es un procedimiento de seguridad que consiste en la alteración, mediante algoritmos, de los datos que componen un archivo. El objetivo es hacer que dichos datos se vuelvan ilegibles en caso de que un tercero los intercepte",
-		"referencia": "Significado de Encriptación. (2019, abril 9). Significados. https://www.significados.com/encriptacion/",
+		"referencia": "Significado de Encriptación. (2019, abril 9). Significados, de",
+		"enlace": "https://www.significados.com/encriptacion/",
 		"unidad": "1"
 	},
 	{
 		"id": "4",
 		"termino": "Librería",
 		"definicion": "Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, elaborado por un tercero que resuelve un problema en concreto, proporcionando un conjunto de funcionalidades",
-		"referencia": "Gómez, P. (2021, octubre 27). Qué es una librería en programación. DevCamp. https://devcamp.es/que-es-libreria-programacion/",
+		"referencia": "Gómez, P. (2021, octubre 27). Qué es una librería en programación. DevCamp de",
+		"enlace": "https://devcamp.es/que-es-libreria-programacion/",
 		"unidad": "1"
 	},
 	{
 		"id": "5",
 		"termino": "Matriz de Pruebas",
 		"definicion": "La matriz de pruebas es el conjunto de casos de prueba que diseñamos y dimensionamos como casos para la ejecución de las pruebas, se basan en la documentación del proyecto, como por ejemplo las historias de usuario",
-		"referencia": "Que es una matriz de pruebas de software? – ConsejosSabios. (s/f). Com.mx. Recuperado el 20 de junio de 2023, de https://consejossabios.com.mx/que-es-una-matriz-de-pruebas-de-software/",
+		"referencia": "Que es una matriz de pruebas de software? – ConsejosSabios. (s/f). Com.mx. Recuperado el 20 de junio de 2023, de",
+		"enlace": "https://consejossabios.com.mx/que-es-una-matriz-de-pruebas-de-software/",
 		"unidad": "1"
 	},
 	{
 		"id": "6",
 		"termino": "Metodologia de Desarrollo",
 		"definicion": "Las metodologías de desarrollo de software, se definen como un conjunto de consideraciones y parámetros, cuyo objetivo es gestionar el proceso de desarrollo de un sistema informático. Dichas consideraciones abarcan desde herramientas, modelos, he incluso otras metodologías, necesarias dentro del marco de trabajo del proyecto. Las metodologías de desarrollo de software funcionan como guías de trabajo, que te indica como, cuando y donde debes de llevar a cabo una determinada acción dentro de tu proyecto. Con el objetivo de optimizar el proceso de desarrollo",
-		"referencia": "¿Qué es y para qué sirve una metodología de desarrollo de software? (2021, marzo 18). Desarrollo de software. https://desarrollodesoftware.dev/metodologia/",
+		"referencia": "¿Qué es y para qué sirve una metodología de desarrollo de software? (2021, marzo 18). Desarrollo de software, de",
+		"enlace": "https://desarrollodesoftware.dev/metodologia/",
 		"unidad": "1"
 	},
 	{
 		"id": "7",
 		"termino": "Metrica",
 		"definicion": "Una métrica del software es cualquier medida o conjunto utilizado para conocer o estimar el tamaño de un software o sistema de información. Entre los usos más frecuentes de las métricas del software están el realizar comparaciones costo beneficio y estimaciones de costos en proyectos de software",
-		"referencia": "Publicado por pmoinformatica.com. (s/f). Metricas del software: Uso y ventajas. Pmoinformatica.com. Recuperado el 20 de junio de 2023, de http://www.pmoinformatica.com/2018/04/metricas-del-software-ventajas.html",
+		"referencia": "Publicado por pmoinformatica.com. (s/f). Metricas del software: Uso y ventajas. Pmoinformatica.com. Recuperado el 20 de junio de 2023, de",
+		"enlace": "http://www.pmoinformatica.com/2018/04/metricas-del-software-ventajas.html",
 		"unidad": "1"
 	},
 	{
 		"id": "8",
 		"termino": "Modelo de Desarrollo",
 		"definicion": "Un modelo de desarrollo de software es una abstracción del proceso de desarrollo de programa. Los modelos especifican los periodos y el orden de un proceso. Entonces, es como una representación del orden de las ocupaciones del proceso y la sucesión en la que se hacen. Los modelos de desarrollo de software son los múltiples procesos que se permanecen seleccionando para el desarrollo del plan en funcionalidad de las metas y metas del plan. Hay varios modelos de periodo de vida de desarrollo que se han desarrollado para poder hacer diferentes fines requeridos",
-		"referencia": "¿Qué son los modelos de desarrollo de software? (2021, marzo 17). Desarrollo de software. https://desarrollodesoftware.dev/modelos/",
+		"referencia": "¿Qué son los modelos de desarrollo de software? (2021, marzo 17). Desarrollo de software, de",
+		"enlace": "https://desarrollodesoftware.dev/modelos/",
 		"unidad": "1"
 	},
 	{
 		"id": "9",
 		"termino": "OWASP",
 		"definicion": "OWASP (Open Web Application Security Project) es una metodología de seguridad  de código abierto y colaborativa que se utiliza como referente para auditorias de seguridad de aplicaciones web",
-		"referencia": "Rivera, D. (2019, diciembre 7). Qué es OWASP y por qué todo desarrollador debería conocerlo. Pleets.org. https://blog.pleets.org/article/es/conoce-owasp",
+		"referencia": "Rivera, D. (2019, diciembre 7). Qué es OWASP y por qué todo desarrollador debería conocerlo. Pleets.org de",
+		"enlace": "https://blog.pleets.org/article/es/conoce-owasp",
 		"unidad": "1"
 	},
 	{
 		"id": "10",
 		"termino": "SDLC",
 		"definicion": "El ciclo de vida del desarrollo de software (SDLC) es un proceso rentable y eficiente en términos de tiempo empleado por los equipos de desarrollo para diseñar y crear software de alta calidad. El objetivo del SDLC es minimizar los riesgos del proyecto por medio de una planificación anticipada que permita que el software cumpla las expectativas del cliente durante la fase de producción y posteriormente. Esta metodología establece una serie de pasos que dividen el proceso de desarrollo de software en tareas que se pueden asignar, completar y medir",
-		"referencia": "Agrawal, A. (2020, septiembre 29). ¿Qué es SDLC? Cisin. https://www.cisin.com/coffee-break/es/trends/what-is-sdlc.html",
+		"referencia": "Agrawal, A. (2020, septiembre 29). ¿Qué es SDLC? Cisin, de",
+		"enlace": "https://www.cisin.com/coffee-break/es/trends/what-is-sdlc.html",
 		"unidad": "1"
 	},
 	{
 		"id": "11",
 		"termino": "S-SDLC",
 		"definicion": "El S-SDLC, se trata de una metodología confiable para el desarrollo de software que garantiza la calidad de las creaciones. Lo que la caracteriza es que se enfoca en la seguridad en cada una de las etapas del ciclo de vida de las aplicaciones a desarrollar, por lo que también se concibe como una herramienta de mantenimiento",
-		"referencia": "Euroinnova Business School. (2022, julio 1). fundamentos de ingenieria de software temario. Euroinnova Business School. https://www.euroinnova.mx/blog/s-sdlc-que-es",
+		"referencia": "Euroinnova Business School. (2022, julio 1). fundamentos de ingenieria de software temario. Euroinnova Business School, de",
+		"enlace": "https://www.euroinnova.mx/blog/s-sdlc-que-es",
 		"unidad": "1"
 	},
 	{
 		"id": "12",
 		"termino": "cunidad2",
 		"definicion": "Concepto de cunidad2",
-		"referencia": "ref",
+		"referencia": "ref1",
+		"enlace": "#",
+		"unidad": "2"
+	},
+	{
+		"id": "13",
+		"termino": "cunidad2",
+		"definicion": "Concepto de cunidad2",
+		"referencia": "ref2",
+		"enlace": "#",
 		"unidad": "2"
 	}
 ]
