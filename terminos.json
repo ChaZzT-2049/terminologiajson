@@ -89,18 +89,50 @@
 	},
 	{
 		"id": "12",
-		"termino": "cunidad2",
-		"definicion": "Concepto de cunidad2",
-		"referencia": "ref1",
-		"enlace": "#",
+		"termino": "XSS",
+		"definicion": "(Cross Site Scripting). Se basa en la inyección de scripts dentro de una web usando HTML, JavaScript u otro lenguaje de codificación. El script se ejecutará en el navegador del cliente con el fin de espiar sus sesiones, redirigirlo a sitios web dañinos, sustraer su información personal o manipular su actividad",
+		"referencia": "Stawart, D. T. C. (Ed.). (2012). Cross-Site Scripting. De ",
+		"enlace": "https://developer.mozilla.org/es/docs/Glossary/Cross-site_scripting",
 		"unidad": "2"
 	},
-	{
-		"id": "13",
-		"termino": "cunidad2",
-		"definicion": "Concepto de cunidad2",
-		"referencia": "ref2",
-		"enlace": "#",
+    {
+        "id": "13",
+		"termino": "SSDF",
+		"definicion": "(Secure Software Development Framework). Iniciativa del NIST (National Institute of Standards and Technology de Estados Unidos), provee indicaciones para evangelizar a la organización acerca de la importancia de la seguridad informática; proteger el software de uso habitual ante hipotéticos ataques; orquestar un desarrollo seguro de software; y detectar y solucionar con rapidez cualquier vulnerabilidad",
+		"referencia": "IT Solutions de BETWEEN. (s/f). Metodologías de desarrollo seguro de software. Between.tech. Recuperado el 31 de julio de 2023, de ",
+		"enlace": "https://impulsate.between.tech/tecnicas-desarrollo-seguro-software",
 		"unidad": "2"
-	}
+    },
+    {
+        "id": "14",
+        "termino": "DAP",
+        "definicion": "Término que Gartner desarrolló para remplazar el anterior concepto de DAM se refiere a las suites de herramientas que se utilizan para apoyar la identificación y reportar comportamiento inapropiado, ilegal o de otra forma indeseable en las RDBMSs, con mínimo impacto en las operaciones y la productividad del usuario. Estas suites han evolucionado de herramientas DAM — que ofrecían análisis de la actividad del usuario en las RDBMSs y alrededor de ellas para abarcar un conjunto más integral de capacidades",
+        "referencia": "4.3 Monitoreo. (2016, diciembre 1). Tópicos de Bases de Datos.",
+        "enlace": "https://topicdb.wordpress.com/4-3-monitoreo-3/",
+        "unidad": "2"
+    },
+    {
+        "id": "15",
+        "termino": "KPI",
+        "definicion": "(Key Performance Indicator). Significa Indicador Clave de Rendimiento. Es decir, el KPI es un indicador del rendimiento del trabajo que estás realizando sobre los objetivos que tienes marcados y es la forma de conocer si los estás cumpliendo. Las métricas miden una acción en concreto, una parte del proceso, como por ejemplo las interacciones de un post. Por otro lado, el KPI mide el rendimiento de tu proyecto al completo, es decir, te indica cómo de cerca estás de alcanzar tus objetivos",
+        "referencia": "Romero, I. (2021, julio 19). KPI: definición, para qué sirve y ejemplos prácticos. De ",
+        "enlace": "https://metricool.com/es/que-es-un-kpi/",
+        "unidad": "2"
+    },
+    {
+        "id": "16",
+        "termino": "Logs",
+        "definicion": "Los logs son archivos de texto normales. Como su nombre indica, estos ficheros registran todos los procesos que han sido definidos como relevantes por el programador de la aplicación. Por ejemplo, en el caso de los archivos log de una base de datos se registran todos los cambios de aquellas transacciones completadas exitosamente",
+        "referencia": "Ficheros log: Toda la información de registro en un archivo. (2022, diciembre 14). IONOS Digital Guide de ",
+        "enlace": "https://www.ionos.mx/digitalguide/online-marketing/analisis-web/el-log-el-archivo-de-registro-de-procesos-informaticos/",
+        "unidad": "2"
+    },
+    {
+        "id": "17",
+        "termino": "SGBD",
+        "definicion": "Un Sistema Gestor de Base de Datos (SGBD) o DGBA (Data Base Management System) es un conjunto de programas no visibles que administran y gestionan la información que contiene una base de datos Los gestores de base de datos o gestores de datos hacen posible admnistrar todo acceso a la base de datos ya que tienen el objetivo de servir de interfaz entre ésta, el usuario y las aplicaciones",
+        "referencia": "¿Qué es un gestor de datos y para qué sirve? (s/f). Powerdata.es. Recuperado el 31 de julio de 2023, de ",
+        "enlace": "https://blog.powerdata.es/el-valor-de-la-gestion-de-datos/que-es-un-gestor-de-datos-y-para-que-sirve",
+        "unidad": "2"
+    }
 ]
